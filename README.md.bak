@@ -1,6 +1,5 @@
 # HP-Custom-Boot-Logo
-Tool extracted from HP Bios update file.
-Works only under Windows
+ 
 ## Usage
 
 HPBIOSUPDREC.exe -e logo.bmp
