@@ -3,6 +3,7 @@ Tool extracted from HP Bios update file.
 Works only under Windows
 ## Usage
 
-HPBIOSUPDREC.exe -e logo.bmp
+HPBIOSUPDREC.exe -e <image>.bmp
 
-Max dimension 1024x768 (in testing), no larger than 32kb.
+Max dimension 1024x768, no larger than 32kb.
+
